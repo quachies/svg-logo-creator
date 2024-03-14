@@ -8,7 +8,7 @@ Follow along with the prompts to input your logo content. Once complete a logo w
 ![my image](/images/Screenshot%202024-03-14%20at%2012.43.42%20AM.png)
 
 ## Executing Program
-Link to walkthrough video: https://drive.google.com/file/d/1heIYrTssfogBQCIwzKHqFoa_mgNLDub1/view?usp=sharing
+Link to walkthrough video: https://drive.google.com/file/d/1kGbQgOuCHRxhqf9PcvnK_781g3Gz9s5a/view?usp=sharing
 
 ## Help
 Reach me at quachies@gmail.com for any advice or help with common issues.
